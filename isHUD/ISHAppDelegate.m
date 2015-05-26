@@ -353,7 +353,7 @@
         [self updateLoginItemMenuState:NSOffState];
     }
     
-    [self registerHotKey];
+//    [self registerHotKey];
 }
 
 - (void)applicationWillTerminate:(NSNotification *)notification {
